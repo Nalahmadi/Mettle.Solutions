@@ -18,3 +18,6 @@ Command Line Execution Instructions:
 	
 5. Run the unit tests:
 	# mvn clean test
+
+Assumption:
+Arry has no nun numeric values.
